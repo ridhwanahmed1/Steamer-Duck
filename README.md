@@ -10,4 +10,5 @@ Streamer Duck is a level based 2d platform game which has a general objective of
 
 You can access view the technical implementation, testing, and gameplay via this link: https://www.youtube.com/watch?v=A34Ua3PsYiY
 
+Original project was part of my embedded systems final project. While some of the files may have been included via upload and zip, the entirety exists in my coe.cis repo which can be linked here: https://github.coecis.cornell.edu/ra495/Steamer-Duck
 
