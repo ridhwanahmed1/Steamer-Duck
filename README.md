@@ -2,13 +2,12 @@
 
 ### Project Description
 
-We want to use the board to control a platform game (similar to Mario) called Red Runner. Here is the github link: [RedRunner] (https://github.com/drummyfish/Steamer-Duck)
-### Technical Approach
+We want to use the board to control a platform game (similar to Mario) called Steamer Duck. Here is the github link: [Steamer Duck] (https://github.com/drummyfish/Steamer-Duck)
 
-We plan to use a combination of the touch sensor or joy stick controller, and buttons from the board to be the inputs to the Red Runner game which is ran in a Python GUI.
+### Technical Approach and game description 
 
-We want to use the buttons on the board as select and back buttons to navigate the menu, and if using the touch sensor to move right and left, the buttons to make the character jump up or crouch. If we use a joy stick controller, we can have all the character movement controlled by it.
-## VIDEO LINK
-You can access your place holder page on [https://pages.github.coecis.cornell.edu/ece3140-sp2023/bdp64-ra495/](https://pages.github.coecis.cornell.edu/ece3140-sp2023/bdp64-ra495/).
+Streamer Duck is a level based 2d platform game which has a general objective of gathering as many eggs as possible while avoiding obstacles in the form of flying drones and enemy robots. Additionally, there is a scoring objective to optimize performance that comes in the form of gathering as many coins as possible in the shortest amount of time. Previous scores are saved via a leaderboard as a way to gauge performance and promote competitiveness. We use the FRDM-KL46Z microcontroller as our main driver for this game and incorporate joystick controls via the 2 ADC ports allocated on the board.
 
-You can edit your page in the gh-page branch of this repo.
+You can access view the technical implementation, testing, and gameplay via this link: https://www.youtube.com/watch?v=A34Ua3PsYiY
+
+
